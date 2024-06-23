@@ -1,1 +1,10 @@
+In this folder we try the cloning in case of different languages:
+1) ARABIC
+we recoreded an arabic audio and then we mapped it to 
+- arabic voice in our dataset. (Arabic -Arabic in dataset)
+- english voice ( Arabic - English not in out dataset)
+- arabic voice (Arabic -Arabic not in dataset)
 
+
+2) ENGLISH
+we do the same methodology
