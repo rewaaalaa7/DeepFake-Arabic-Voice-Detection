@@ -2,3 +2,8 @@ This folder has
 1) Real Data -> the 5 people's speeches (Arabic)
 2) Fake Data -> the cloning audios 
 3) Balanced-Data.csv -> the feature extractions of the real and fake audios
+
+
+# voting classifier model provided the best accuracy (Ensemble Learning (XGBOOST and LightGBM) : 
+Voting Classifier Train Accuracy: 0.9687867477887417
+Voting Classifier Test Accuracy: 0.9209611451942741
